@@ -1,0 +1,131 @@
+.discoverEvents {
+  position: absolute;
+  top: 633px;
+  left: 100px;
+  font-size: 33.06px;
+  display: inline-block;
+  color: var(--color-seagreen);
+  width: 245px;
+}
+.eventChild,
+.eventItem {
+  position: absolute;
+  top: 693px;
+  left: 100px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-seagreen);
+  width: 190px;
+  height: 48px;
+}
+.eventItem {
+  left: 310px;
+}
+.anyDate,
+.myLocation {
+  position: absolute;
+  top: 704.25px;
+  left: 141px;
+}
+.anyDate {
+  top: 704px;
+  left: 363px;
+}
+.mdidateRangeIcon,
+.mdilocationIcon {
+  position: absolute;
+  top: 704px;
+  left: 328px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.mdilocationIcon {
+  top: 705px;
+  left: 110px;
+}
+.eventInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 546px;
+  object-fit: cover;
+}
+.search {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 18.43px;
+  left: 104.44px;
+  font-size: 19.66px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--ffffff);
+  text-align: left;
+  display: inline-block;
+  width: 68.81px;
+  height: 24.57px;
+}
+.button,
+.groupChild {
+  position: absolute;
+  top: 0;
+  height: 61.43px;
+}
+.button {
+  left: 537px;
+  border-radius: 9.83px;
+  background-color: var(--color-seagreen);
+  width: 276.46px;
+  overflow: hidden;
+}
+.groupChild {
+  border: 0;
+  background-color: transparent;
+  left: 0;
+  width: 514.83px;
+}
+.buttonParent {
+  position: absolute;
+  top: 686px;
+  left: 524px;
+  width: 813.46px;
+  height: 61.44px;
+}
+.communityCleanupYour,
+.joinUsIn {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+}
+.communityCleanupYour {
+  top: 149.87px;
+  left: 358.69px;
+  font-size: var(--font-size-34xl);
+  line-height: 67.94px;
+  width: 703.39px;
+  height: 135.88px;
+}
+.joinUsIn {
+  top: 286px;
+  left: 346.7px;
+  font-size: 21.98px;
+  letter-spacing: 0.03em;
+  line-height: 34.97px;
+  font-family: var(--font-outfit);
+  width: 746.36px;
+  height: 82.93px;
+}
+.event {
+  position: relative;
+  background-color: var(--ffffff);
+  width: 100%;
+  height: 1980px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20.78px;
+  color: var(--ffffff);
+  font-family: var(--font-roboto);
+}

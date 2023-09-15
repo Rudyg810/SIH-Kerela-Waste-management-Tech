@@ -1,0 +1,98 @@
+.groupChild,
+.groupItem,
+.rectangleWrapper {
+  position: absolute;
+  top: 0;
+  width: 589.49px;
+  height: 355.69px;
+}
+.groupChild {
+  left: -589.49px;
+  border-radius: 19.98px;
+  object-fit: cover;
+}
+.groupItem,
+.rectangleWrapper {
+  left: 0;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.groupItem {
+  left: -0.86px;
+  border-radius: 19.98px;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(0, 0, 0, 0.3),
+    transparent
+  );
+}
+.groupItem:hover,
+.rectangleDiv:hover {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.paperRecycle {
+  position: absolute;
+  top: 148.41px;
+  left: -384.86px;
+  font-weight: 600;
+  display: inline-block;
+  width: 181px;
+  height: 29px;
+}
+.groupInner,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  border-radius: 19.98px;
+  width: 589.49px;
+  height: 728.37px;
+}
+.groupInner {
+  left: -1195.97px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  left: -606.86px;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(0, 0, 0, 0.3),
+    transparent
+  );
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.homemadeDiy,
+.plantBasedProducts {
+  position: absolute;
+  top: 372.41px;
+  left: -1034.86px;
+  font-weight: 600;
+  display: inline-block;
+  width: 268px;
+  height: 29px;
+}
+.homemadeDiy {
+  top: 177.73px;
+  left: -403.86px;
+  width: 218px;
+}
+.groupParent,
+.rectangleParent {
+  position: absolute;
+  top: 372.68px;
+  left: 0;
+  width: 590.35px;
+  height: 355.69px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.groupParent {
+  top: 2798.59px;
+  left: 1317.86px;
+  width: 1196.35px;
+  height: 728.37px;
+  text-align: left;
+  font-size: 23.98px;
+  color: var(--ffffff);
+  font-family: var(--font-roboto);
+}

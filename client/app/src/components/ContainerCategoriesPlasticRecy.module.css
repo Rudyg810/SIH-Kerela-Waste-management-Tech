@@ -1,0 +1,101 @@
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 19.98px;
+  width: 589.49px;
+  height: 355.69px;
+  object-fit: cover;
+}
+.groupItem {
+  left: 0.11px;
+}
+.groupItem:hover,
+.rectangleDiv:hover {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.plasticRecycled {
+  position: absolute;
+  top: 163.77px;
+  left: 195.11px;
+  font-weight: 600;
+  display: inline-block;
+  width: 199px;
+  height: 29px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 589.6px;
+  height: 355.69px;
+}
+.groupInner,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 606.48px;
+  border-radius: 19.98px;
+  width: 589.49px;
+  height: 728.37px;
+}
+.groupInner {
+  object-fit: cover;
+}
+.rectangleDiv {
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(0, 0, 0, 0.3),
+    transparent
+  );
+}
+.handmadeDiy {
+  position: absolute;
+  top: 334.77px;
+  left: 833.11px;
+  font-weight: 600;
+  display: inline-block;
+  width: 207px;
+  height: 29px;
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0.11px;
+  border-radius: 19.98px;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(0, 0, 0, 0.3),
+    transparent
+  );
+  width: 589.49px;
+  height: 355.69px;
+}
+.domesticWaste {
+  position: absolute;
+  top: 163.09px;
+  left: 189.11px;
+  font-weight: 600;
+  display: inline-block;
+  width: 212px;
+  height: 29px;
+}
+.groupParent,
+.rectangleGroup {
+  position: absolute;
+  top: 372.68px;
+  left: 0;
+  width: 589.6px;
+  height: 355.69px;
+}
+.groupParent {
+  top: 2053.23px;
+  left: 121.89px;
+  width: 1195.97px;
+  height: 728.37px;
+  text-align: left;
+  font-size: 23.98px;
+  color: var(--ffffff);
+  font-family: var(--font-roboto);
+}

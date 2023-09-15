@@ -1,0 +1,63 @@
+.eventsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 245px;
+  height: 300px;
+  color: aliceblue;
+  object-fit: cover;
+}
+.davPublicSchool,
+.interested21,
+.sep2023 {
+  position: absolute;
+  top: 166px;
+  color: aliceblue;
+  left: 73.4px;
+  text-transform: uppercase;
+}
+.davPublicSchool,
+.interested21 {
+  top: 189.9px;
+  left: 27.14px;
+  color: aliceblue;
+}
+.interested21 {
+  top: 214.83px;
+  color: aliceblue;
+  left: 52.23px;
+  font-size: 10.56px;
+}
+.eventsItem {
+  position: absolute;
+  top: 242.3px;
+  left: 59px;
+  border-radius: 53.31px;
+  background-color: var(--color-dimgray-100);
+  border: 1.1px solid var(--ffffff);
+  box-sizing: border-box;
+  width: 131.13px;
+  height: 34.12px;
+  color:aliceblue;
+}
+.participated {
+  position: absolute;
+  top: 248.7px;
+  left: 75px;
+  font-size: 18.12px;
+  font-weight: 500;
+  color: aliceblue;
+  font-family: var(--font-roboto);
+}
+.events {
+  position: absolute;
+  top: 468px;
+  left: 1098px;
+  width: 245px;
+  height: 300px;
+  text-align: left;
+  font-size: 18.47px;
+color: aliceblue; 
+ font-family: var(--font-outfit);
+}

@@ -1,0 +1,91 @@
+.topLocalBusinesses {
+  position: absolute;
+  top: 0;
+  left: 0.11px;
+  font-size: 23.98px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 260px;
+  height: 29px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 265.82px;
+  height: 265.82px;
+  object-fit: cover;
+}
+.rampalStore {
+  position: absolute;
+  top: 292.7px;
+  left: 85.41px;
+  display: inline-block;
+  width: 129.89px;
+  height: 19.98px;
+}
+.ellipseParent,
+.surajKiDukan {
+  position: absolute;
+  top: 94.5px;
+  left: 0;
+  width: 265.82px;
+  height: 312.68px;
+}
+.surajKiDukan {
+  top: 292.7px;
+  left: 85.41px;
+  display: inline-block;
+  width: 135.88px;
+  height: 19.98px;
+}
+.ellipseGroup,
+.sumitStore {
+  position: absolute;
+  top: 94.5px;
+  left: 308.05px;
+  width: 265.82px;
+  height: 312.68px;
+}
+.sumitStore {
+  top: 292.7px;
+  left: 85.41px;
+  display: inline-block;
+  width: 104.91px;
+  height: 19.98px;
+}
+.ellipseContainer,
+.lalitaStore {
+  position: absolute;
+  top: 94.5px;
+  left: 616.1px;
+  width: 265.82px;
+  height: 312.68px;
+}
+.lalitaStore {
+  top: 292.5px;
+  left: 84.96px;
+  display: inline-block;
+  width: 99px;
+  height: 20px;
+}
+.groupDiv {
+  position: absolute;
+  top: 94.5px;
+  left: 924.15px;
+  width: 265.82px;
+  height: 312.5px;
+}
+.topLocalBusinessesParent {
+  position: absolute;
+  top: 1466px;
+  left: 121.89px;
+  width: 1189.97px;
+  height: 407.17px;
+  text-align: left;
+  font-size: 15.99px;
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

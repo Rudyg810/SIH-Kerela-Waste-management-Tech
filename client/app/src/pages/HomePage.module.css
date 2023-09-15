@@ -1,0 +1,219 @@
+.competeWithNeighbors,
+.joinTheWaste {
+  position: absolute;
+  top:80px;
+  left: 0;
+  
+  font-style: bold;
+  font-weight: 600;
+  color: rgb(31, 110, 49);
+  display: inline-block;
+  font-size : 50px;
+  width: 617.66px;
+}
+.competeWithNeighbors {
+  top: 330px;
+  font-size: 21.98px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: #656565;
+  width: 443px;
+}
+.heroSection,
+.icon {
+  position: absolute;
+  height: 551px;
+}
+.icon {
+  top: 0;
+  right: 0;
+  margin-top:-80px;
+  width: 964px;
+  object-fit: cover;
+}
+.heroSection {
+  top: 108px;
+  left: 100px;
+  width: 1293px;
+  color: var(--color-seagreen);
+}
+.removebgPreview1Icon {
+  position: absolute;
+  top: 738px;
+  left: 246px;
+  width: 948px;
+  height: 675.74px;
+  object-fit: cover;
+  display: none;
+  mix-blend-mode: luminosity;
+}
+.viewDetails {
+  position: absolute;
+  top: 1146px;
+  left: 213.87px;
+  font-size: 30.08px;
+  text-transform: lowercase;
+  font-family: var(--font-outfit);
+  display: none;
+  width: 172.27px;
+}
+.homePageChild {
+  position: absolute;
+  top: calc(50% + 510.08px);
+  left: calc(50% - 742.42px);
+  border-top: 0.8px solid var(--color-darkgray-200);
+  box-sizing: border-box;
+  width: 1440.84px;
+  height: 0.84px;
+}
+.homePageItem {
+  position: absolute;
+  top: 656.75px;
+  left: calc(50% - 620px);
+  border-radius: 29.55px;
+  width: 1240.98px;
+  height: 393.72px;
+  object-fit: cover;
+}
+.discoverOurTopRated {
+  position: absolute;
+  color: antiquewhite;
+  top: 680px;
+  left: calc(50% - 448.8px);
+  font-size: 47.28px;
+  font-weight: 800;
+  text-align: center;
+  display: inline-block;
+  width: 901.19px;
+}
+.groupChild,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 17.73px;
+  background-color: var(--ffffff);
+  box-shadow: 0 14.773581504821777px 28.81px -8.86px rgba(99, 117, 124, 0.2);
+  width: 333.88px;
+  height: 320.59px;
+}
+.groupInner,
+.groupItem {
+  top: 9.88px;
+  left: 372.16px;
+}
+.groupInner {
+  top: 19.76px;
+  left: 744.33px;
+}
+.diveIntoThe {
+  position: absolute;
+  top: 178.74px;
+  left: 36.61px;
+  line-height: 24.38px;
+  font-weight: 500;
+  display: inline-block;
+  width: 257.06px;
+}
+.div {
+  position: absolute;
+  top: 35.99px;
+  left: 40.78px;
+  font-size: 47.28px;
+  line-height: 66.48px;
+  font-weight: 800;
+  color: var(--color-lightblue);
+  text-align: center;
+}
+.delveIntoThe,
+.onlineFreeCourses {
+  position: absolute;
+  display: inline-block;
+  width: 257.06px;
+}
+.onlineFreeCourses {
+  top: 112.29px;
+  left: 39.1px;
+  font-size: 17.73px;
+  font-weight: 800;
+  color: var(--color-gray-500);
+}
+.delveIntoThe {
+  top: 188.62px;
+  left: 408.77px;
+  line-height: 24.38px;
+  font-weight: 500;
+}
+.div1 {
+  position: absolute;
+  top: 45.99px;
+  left: 412.94px;
+  font-size: 47.28px;
+  line-height: 66.48px;
+  font-weight: 800;
+  color: var(--color-lightblue);
+  text-align: center;
+}
+.diveIntoThe1,
+.resourcesForTeachers {
+  position: absolute;
+  display: inline-block;
+  width: 257.06px;
+}
+.resourcesForTeachers {
+  top: 122.17px;
+  left: 411.26px;
+  font-size: 17.73px;
+  font-weight: 800;
+  color: var(--color-gray-500);
+}
+.diveIntoThe1 {
+  top: 198.49px;
+  left: 780.93px;
+  line-height: 24.38px;
+  font-weight: 500;
+}
+.bookRecommendationsAnd,
+.div2 {
+  position: absolute;
+  font-weight: 800;
+}
+.div2 {
+  top: 55.89px;
+  left: 785.1px;
+  font-size: 47.28px;
+  line-height: 66.48px;
+  color: var(--color-lightblue);
+  text-align: center;
+}
+.bookRecommendationsAnd {
+  top: 132.05px;
+  left: 783.42px;
+  font-size: 17.73px;
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 257.06px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 1032.66px;
+  left: 174.77px;
+  width: 1078.21px;
+  height: 340.34px;
+  display: none;
+  font-size: var(--font-size-sm-3);
+  color: var(--color-gray-300);
+  font-family: var(--font-plus-jakarta-sans);
+}
+.homePage {
+  position: relative;
+  background-color: var(--ffffff);
+  width: 100%;
+  height: 3461px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 48.49px;
+  color: var(--ffffff);
+  font-family: var(--font-roboto);
+}

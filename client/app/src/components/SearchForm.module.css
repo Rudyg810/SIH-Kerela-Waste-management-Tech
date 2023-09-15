@@ -1,0 +1,59 @@
+.searchChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--ffffff);
+  box-shadow: 0 3.996553659439087px 19.98px rgba(0, 0, 0, 0.1);
+  width: 1438.76px;
+  height: 166.86px;
+}
+.search1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 18.43px;
+  left: 104.44px;
+  font-size: 19.66px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--ffffff);
+  text-align: left;
+  display: inline-block;
+  width: 68.81px;
+  height: 24.57px;
+}
+.button,
+.groupChild {
+  position: absolute;
+  top: 0;
+  height: 61.43px;
+}
+.button {
+  left: 630.99px;
+  border-radius: 9.83px;
+  background-color: var(--color-seagreen);
+  width: 276.46px;
+  overflow: hidden;
+}
+.groupChild {
+  border: 0;
+  background-color: transparent;
+  left: 0;
+  width: 514.83px;
+}
+.buttonParent,
+.search {
+  position: absolute;
+  top: 52.21px;
+  left: 326px;
+  width: 907.45px;
+  height: 61.44px;
+}
+.search {
+  top: 749.35px;
+  left: 0;
+  width: 1438.76px;
+  height: 166.86px;
+}

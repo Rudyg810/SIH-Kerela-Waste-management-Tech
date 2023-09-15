@@ -1,0 +1,78 @@
+.loginPageChild {
+  position: absolute;
+  height: 92.79%;
+  width: 52.91%;
+  top: 7.21%;
+  right: 21.8%;
+  bottom: 0;
+  left: 25.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.createYourAccount {
+  position: relative;
+  font-weight: 600;
+}
+.signIn {
+  font-weight: 600;
+  color: var(--color-seagreen);
+}
+.alreadyHaveAnContainer {
+  position: relative;
+  font-size: 15px;
+  color: #878484;
+  font-family: var(--font-outfit);
+}
+.createYourAccountParent {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.frameWrapper {
+  position: relative;
+  width: 365.36px;
+  height: 176.33px;
+}
+.frameParent {
+  position: absolute;
+  top: 244.89px;
+  left: 161.99px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 31px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.image12Icon,
+.rubbish1Icon {
+  position: absolute;
+  top: 137px;
+  left: 262.15px;
+  width: 178.26px;
+  height: 178.26px;
+  object-fit: cover;
+}
+.image12Icon {
+  top: 0;
+  left: 713px;
+  width: 727px;
+  height: 1034px;
+}
+.loginPage {
+  position: relative;
+  background-color: var(--ffffff);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 34px;
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-roboto);
+}

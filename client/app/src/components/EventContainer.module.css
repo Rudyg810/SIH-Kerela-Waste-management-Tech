@@ -1,0 +1,104 @@
+.eventsChild {
+  color: white;
+  position: absolute;
+  top: -25px;
+  left: -5px;
+  border-radius: var(--br-3xs);
+  width: 255px;
+  height: 310px;
+  color: #ffffff;
+  object-fit: cover;
+}
+.eventsInner,
+.eventsItem {
+  color: white;
+  position: absolute;
+  top: 242.3px;
+  left: 24px;
+  border-radius: 53.31px;
+  background-color: var(--color-dimgray-100);
+  border: 1.1px solid var(--ffffff);
+  box-sizing: border-box;
+  width: 131.13px;
+  height: 34.12px;
+}
+.eventsInner {
+  color: white;
+  top: 241.23px;
+  left: 166.86px;
+  width: 56.5px;
+  height: 36.25px;
+}
+.ictwotoneShareIcon {
+  color: white;
+  position: absolute;
+  top: 246.57px;
+  left: 182.85px;
+  width: 25.59px;
+  height: 25.59px;
+  overflow: hidden;
+}
+.interested {
+  color: white;
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 248.7px;
+  left: 54.92px;
+  font-size: 18.12px;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--ffffff);
+  text-align: left;
+  display: inline-block;
+}
+.interested {
+  margin-top: -2px;
+  color: white;
+}
+.materialSymbolsstarOutlineIcon {
+  color: white;
+  position: absolute;
+  top: 248.7px;
+  left: 35.73px;
+  width: 19.19px;
+  height: 19.19px;
+  overflow: hidden;
+}
+.sep2023 {
+  color: white;
+  top: 166px;
+  left: calc(50% - 50.5px);
+}
+.interested21,
+.nalandaBoysHostel,
+.sep2023 {
+  color: white;
+  position: absolute;
+  text-transform: uppercase;
+}
+.nalandaBoysHostel {
+  color: white;
+  top: 189.9px;
+  left: calc(50% - 108.5px);
+}
+.interested21 {
+  color: white;
+  top: 214.83px;
+  left: 52.23px;
+  font-size: 10.56px;
+}
+.events {
+  color: white;
+  position: absolute;
+  top: 1057px;
+  left: 595px;
+  width: 245px;
+  height: 300px;
+  text-align: left;
+  font-size: 18.47px;
+  color: var(--ffffff);
+  font-family: var(--font-outfit);
+}

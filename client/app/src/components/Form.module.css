@@ -1,0 +1,115 @@
+.span {
+  color: var(--color-orangered);
+}
+.fullNameContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.input,
+.name {
+  width: 300.01px;
+}
+.input {
+  border: 1px solid var(--color-lightgray);
+  background-color: var(--ffffff);
+  position: absolute;
+  top: 29px;
+  left: 7px;
+  font-size: 20px;
+  border-radius: var(--br-6xl);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.name {
+  position: relative;
+  height: 77px;
+  border-color: black;
+}
+.input1,
+.input2 {
+  position: absolute;
+  top: 29px;
+
+  border-radius: var(--br-6xl);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 300.01px;
+  font-size: 20px;
+  padding: 5px;
+  overflow: hidden;
+}
+.input2 {
+  top: 27px;
+}
+.pass {
+  position: relative;
+  width: 300.01px;
+  height: 69px;
+}
+.checkChild,
+.iAgreeTo {
+  position: absolute;
+  top: 0;
+}
+.checkChild {
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 17px;
+  height: 17px;
+}
+.iAgreeTo {
+  left: 27px;
+}
+.check,
+.signUp {
+  position: relative;
+}
+.check {
+  width: 191px;
+  height: 17px;
+  font-size: var(--font-size-2xs);
+}
+.signUp {
+  cursor: pointer;
+  border: 2px;
+
+  padding-left: 10px;
+  padding-right: 10px;
+  color: aliceblue;  
+  font-size: 25px;
+  border-radius: 5px;
+
+
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: white;
+  text-align: left;
+  background-color: #13713c;
+  display: inline-block;
+}
+.signUpWrapper {
+  border-radius: var(--br-6xl);
+  background-color: var(--color-seagreen);
+  width: 400.01px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 10.00029182434082px 78.00227355957031px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.nameParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-outfit);
+}

@@ -1,0 +1,193 @@
+.exploreInFurnitures,
+.viewAll {
+  position: absolute;
+  top: 10.83px;
+  left: 0.11px;
+  font-weight: 600;
+  display: inline-block;
+  width: 260px;
+  height: 29px;
+}
+.viewAll {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 14.99px;
+  left: 37.97px;
+  font-size: 15.99px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-seagreen);
+  text-align: left;
+  width: 64.94px;
+  height: 19.98px;
+}
+.button {
+  position: absolute;
+  top: 0;
+  left: 1055.09px;
+  border-radius: 7.99px;
+  background-color: var(--ffffff);
+  border: 1px solid var(--color-seagreen);
+  box-sizing: border-box;
+  width: 139.88px;
+  height: 49.96px;
+  overflow: hidden;
+}
+.furniture1,
+.rampalStore {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 117.9px;
+  height: 19.98px;
+}
+.rampalStore {
+  top: 29.13px;
+  left: 0.11px;
+  width: 113px;
+  height: 20px;
+}
+.furniture1Parent {
+  position: absolute;
+  top: 267.77px;
+  left: 0;
+  width: 117.9px;
+  height: 49.13px;
+}
+.groupChild,
+.groupContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 259.78px;
+}
+.groupChild {
+  border-radius: 7.99px;
+  height: 259.78px;
+  object-fit: cover;
+}
+.groupContainer {
+  height: 316.9px;
+}
+.furniture2Parent,
+.surajKiDukan {
+  position: absolute;
+  left: 0;
+  width: 139.88px;
+}
+.surajKiDukan {
+  top: 28.98px;
+  display: inline-block;
+  height: 19.98px;
+}
+.furniture2Parent {
+  top: 272.77px;
+  height: 48.96px;
+}
+.rectangleParent,
+.sumitStore {
+  position: absolute;
+  top: 0;
+  left: 286.75px;
+  width: 259.78px;
+  height: 321.72px;
+}
+.sumitStore {
+  top: 28.98px;
+  left: 0;
+  display: inline-block;
+  width: 125.89px;
+  height: 19.98px;
+}
+.furniture3Parent,
+.groupDiv {
+  position: absolute;
+  top: 272.77px;
+  left: 0;
+  width: 125.89px;
+  height: 48.96px;
+}
+.groupDiv {
+  top: 0;
+  left: 573.51px;
+  width: 259.78px;
+  height: 321.72px;
+}
+.furniture4Parent,
+.lalitaStore {
+  position: absolute;
+  left: 0;
+  width: 136.88px;
+}
+.lalitaStore {
+  top: 28.98px;
+  display: inline-block;
+  height: 19.98px;
+}
+.furniture4Parent {
+  top: 272.77px;
+  height: 48.96px;
+}
+.groupParent1,
+.kundanStore {
+  position: absolute;
+  top: 0;
+  left: 860.26px;
+  width: 259.78px;
+  height: 321.72px;
+}
+.kundanStore {
+  top: 29.14px;
+  left: 0.09px;
+  display: inline-block;
+  width: 118px;
+  height: 20px;
+}
+.furniture5Parent,
+.groupChild1 {
+  position: absolute;
+  top: 272.76px;
+  left: 0;
+  width: 118.09px;
+  height: 49.14px;
+}
+.groupChild1 {
+  top: 0;
+  left: 1px;
+  border-radius: 7.99px;
+  width: 259.78px;
+  height: 259.78px;
+  object-fit: cover;
+}
+.groupParent2 {
+  position: absolute;
+  top: 0;
+  left: 1146.01px;
+  width: 260.77px;
+  height: 321.9px;
+}
+.featuredArtworks,
+.groupParent {
+  position: absolute;
+  width: 1316.86px;
+}
+.groupParent {
+  top: 76.93px;
+  left: 0;
+  height: 321.72px;
+  overflow-x: auto;
+  font-size: 15.99px;
+  font-family: var(--font-outfit);
+}
+.featuredArtworks {
+  top: 967.17px;
+  left: 121.89px;
+  height: 398.66px;
+  text-align: left;
+  font-size: 23.98px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
